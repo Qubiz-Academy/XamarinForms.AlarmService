@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="XF.AlarmManager.Sample.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XF.AlarmManager.Sample.UWP"
+    RequestedTheme="Light">
+
+</Application>
